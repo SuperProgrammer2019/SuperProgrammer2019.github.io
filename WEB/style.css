@@ -1,0 +1,38 @@
+body {
+	font-size: 30px;
+	color: black;
+	background-color: gray;
+}
+a {
+	
+	font-size: 30px;
+	display: inline-block;
+	color: #929aab;
+	margin: 20px 0;
+	border-bottom: 1px solid transparent;
+	transition: 0.2s ease-in;
+
+}
+a:hover {
+	border-bottom: #929aab;
+    color: red;
+}
+h1 {
+	font-size: 120px;
+	color: black;
+}
+img {
+	max-width: 80%;
+	height: auto;
+	display: block;
+}
+div {
+	width: 80%;
+	margin: auto;
+	background-color: silver;
+	box-shadow: 8px 10px 10px 6px rgba(0,0,0,0.2);
+
+p{
+	color: lime;
+	margin: 3px 0;
+}
